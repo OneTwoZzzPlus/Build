@@ -1,9 +1,7 @@
 ![ITMO](https://raw.githubusercontent.com/aimclub/open-source-ops/43bb283758b43d75ec1df0a6bb4ae3eb20066323/badges/ITMO_badge_rus.svg)
 
-<p>Built with:</p>
-
-![Unity](https://img.shields.io/badge/Unity-%23000000?logo=unity&logoColor=white&labelColor=black&color=%23000000)
-
+# 💻 Открыть на сайте
+http://194.87.99.175/
 
 # Игра-новелла "Февральская революция"
 # Описание
@@ -22,9 +20,6 @@
 Немного самой игры:
 
 https://github.com/user-attachments/assets/427d90b7-67e7-40e8-8bd3-81b1325e1e68
-
-# 💻 Открыть на сайте
-http://194.87.99.175/
 
 
 # 🛠 Установка
@@ -65,3 +60,8 @@ http://194.87.99.175/
 4. После установки вы сможете запускать игру через интерфейс PlayOnMac
 
 ⚠ Обратите внимание: производительность и стабильность могут отличаться от запуска на Windows
+
+
+<p>Built with:</p> 
+
+![Unity](https://img.shields.io/badge/Unity-%23000000?logo=unity&logoColor=white&labelColor=black&color=%23000000)
