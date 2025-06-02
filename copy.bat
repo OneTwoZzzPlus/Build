@@ -1,0 +1,1 @@
+scp -r ./NovellaWebBuild/ ivan@194.87.99.175:./game/
